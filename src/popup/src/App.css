@@ -1,7 +1,19 @@
-.App {
+.app {
   text-align: center;
   width: 500px;
   padding: 20px;
+}
+
+.title {
+  font-family: PingFangSC-Medium;
+  font-size: 20px;
+  color: #333333;
+}
+
+.head {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
 }
 
 .text-area {
@@ -11,4 +23,9 @@
 
 .transform-button {
   margin-top: 15px;
+}
+
+
+.ant-upload-text {
+  padding: 0 5px;
 }
