@@ -30,12 +30,12 @@ Then you can convert image to base64 data in your chrome tab~🎉
 
 1. open `Image To Base64` extension.
 
-![](/Users/zeeyang/Documents/截图1.png)
+![](./images/preview_1.png)
 
 2. Click or drag file to the designated area, then you will see the preview image and it's base64 data below.
 
-![](/Users/zeeyang/Documents/截图5.png)
+![](./images/preview_2.png)
 
 3. Click `Copy` button, paste it to the place that you want to use.
 
-![](/Users/zeeyang/Desktop/截图6.png)
+![](./images/preview_3.png)
