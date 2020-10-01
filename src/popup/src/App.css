@@ -16,6 +16,17 @@
   justify-content: space-between;
 }
 
+.img-container {
+  width: 150px;
+  height: 150px;
+}
+
+.img-container img {
+  max-width: 150px;
+  max-height: 150px;
+  vertical-align: middle;
+}
+
 .text-area {
   margin-top: 20px;
   width: 100%;

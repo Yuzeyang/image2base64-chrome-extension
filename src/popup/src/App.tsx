@@ -53,9 +53,11 @@ function App() {
           </p>
           <p className="ant-upload-text">Click or drag file to this area to upload</p>
         </Dragger>
-        <img alt="preview-img" id="img" height="150" src={defaultImgSrc}/>
+        <div className="img-container">
+          <img alt="preview-img" id="img" height="150" src={defaultImgSrc}/>
+        </div>
       </div>
-      <textarea id="base64TA" className="text-area" placeholder={'here is image base64 data'} rows={5} />
+      <textarea id="base64TA" className="text-area" placeholder={'here is image base64 data'} rows={5} readOnly />
       <Button className="copy-button" type="primary" shape="round" size={'large'} onClick={copyToClipboard}>
         Copy
       </Button>
