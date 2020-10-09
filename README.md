@@ -1,5 +1,7 @@
 # image2base64-chrome-extension
 
+![](https://img.shields.io/github/license/Yuzeyang/image2base64-chrome-extension)
+
 Convert local image to base64 data for chrome extension.
 
 ## how to use
